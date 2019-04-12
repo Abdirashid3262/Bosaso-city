@@ -1,0 +1,14 @@
+img{
+  width: 700px;
+  border-radius: 250px;
+}
+h1{
+  font-size: 90px;
+}
+p{
+  font-style: italic;
+  font-size: 70px;
+}
+button{
+  font-size: 40px;
+}
