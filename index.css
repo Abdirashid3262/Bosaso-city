@@ -1,14 +1,41 @@
 img{
-  width: 700px;
-  border-radius: 250px;
+  width: 250px;
+
 }
-h1{
-  font-size: 90px;
-}
-p{
-  font-style: italic;
-  font-size: 70px;
-}
+
 button{
   font-size: 40px;
+}
+table{
+  width: 400px;
+}
+th{
+  text-align: left;
+  background: yellow;
+  font-size: 20px;
+}
+
+
+ img{
+   text-align: right;
+ }
+table, th, td{
+  border: 1px dotted black;
+  border-collapse: collapse;
+}
+tr{
+  shape-outside: padding-box;
+}
+th, td{
+  padding: 120px;
+}
+h1{
+  color:red;
+}
+body{
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/04/43/19/705852776d439e8.jpg);
+  background-size: 2500px;
+}
+button{
+  font-size: 15px;
 }
