@@ -1,41 +1,12 @@
-img{
-  width: 250px;
-
-}
-
-button{
-  font-size: 40px;
-}
-table{
-  width: 400px;
-}
-th{
-  text-align: left;
-  background: yellow;
-  font-size: 20px;
-}
-
-
- img{
-   text-align: right;
- }
-table, th, td{
-  border: 1px dotted black;
-  border-collapse: collapse;
-}
-tr{
-  shape-outside: padding-box;
-}
-th, td{
-  padding: 120px;
-}
-h1{
-  color:red;
-}
 body{
-  background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/04/43/19/705852776d439e8.jpg);
-  background-size: 2500px;
+  background-image: url(sawir/C7.jpg);
+  background-size: 1867px;
 }
-button{
-  font-size: 15px;
+h3{
+  color: blue;
+}
+p{
+  color: black;
+  font-size: 25px;
+  font-family: 'Volkhov', serif;
 }
